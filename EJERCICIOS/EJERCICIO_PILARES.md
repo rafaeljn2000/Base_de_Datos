@@ -3,6 +3,7 @@ https://www.db-fiddle.com/f/vhPnpsG2gg1HEngRmpWbHf/1
 
 
 base de datos estructurada:    https://www.db-fiddle.com/f/vhPnpsG2gg1HEngRmpWbHf/3
+
 modificada con comandos:       https://www.db-fiddle.com/f/vhPnpsG2gg1HEngRmpWbHf/4
 
 
