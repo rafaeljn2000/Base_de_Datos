@@ -1,6 +1,8 @@
 https://www.db-fiddle.com/f/vhPnpsG2gg1HEngRmpWbHf/1
 
-https://www.db-fiddle.com/f/vuLRREUV8zREXpArYoU6ja/0
+
+
+base creada  https://www.db-fiddle.com/f/vhPnpsG2gg1HEngRmpWbHf/2
 
 
 ![image](https://user-images.githubusercontent.com/91554777/235196884-6cfb1909-3699-4c0f-ad0f-09ff27471105.png)
@@ -32,4 +34,4 @@ Cuál es el promedio de PILARES por alcaldía
 Realiza una presentación con los datos que consideres relevantes realizando un anális de esta base.
 
 
-
+https://www.db-fiddle.com/f/vuLRREUV8zREXpArYoU6ja/0
