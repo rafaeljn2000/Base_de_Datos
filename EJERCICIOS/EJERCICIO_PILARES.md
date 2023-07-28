@@ -16,6 +16,10 @@ Base con datos:  https://www.db-fiddle.com/f/vhPnpsG2gg1HEngRmpWbHf/6
 actualizando registro con pilares05 
 https://www.db-fiddle.com/f/vhPnpsG2gg1HEngRmpWbHf/8
 
+
+Base de datos completa progfesor
+https://www.db-fiddle.com/f/n2TNnzMyhDxYKPM97wNNJS/0
+
 ![image](https://user-images.githubusercontent.com/91554777/235196884-6cfb1909-3699-4c0f-ad0f-09ff27471105.png)
 
 ![image](https://user-images.githubusercontent.com/91554777/235502032-0d8f2296-5816-422b-93b5-be9def027bad.png)
