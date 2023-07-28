@@ -20,6 +20,11 @@ https://www.db-fiddle.com/f/vhPnpsG2gg1HEngRmpWbHf/8
 Base de datos completa progfesor
 https://www.db-fiddle.com/f/n2TNnzMyhDxYKPM97wNNJS/0
 
+
+base de datos lista consultas
+https://www.db-fiddle.com/f/jzVANim2Sict1HxzhRvwKp/2
+Agregar de tarea un grupo por taller con minimo 10 usuarios
+
 ![image](https://user-images.githubusercontent.com/91554777/235196884-6cfb1909-3699-4c0f-ad0f-09ff27471105.png)
 
 ![image](https://user-images.githubusercontent.com/91554777/235502032-0d8f2296-5816-422b-93b5-be9def027bad.png)
